@@ -18,7 +18,7 @@ public class CoinToss {
         if (guessCoin == coin)
             System.out.println("You guessed correctly.");
         else 
-            System.out.println("Your guess is wrong. It's actually " + correct + " .");
+            System.out.println("Your guess was wrong. It's actually " + correct + " .");
     
     }
     
